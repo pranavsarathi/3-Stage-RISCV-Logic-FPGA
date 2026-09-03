@@ -24,7 +24,7 @@ A simple **32-bit 3-stage pipelined RISC-V logic** implemented on an **AMD Xilin
 
 ## 🎯 PROJECT GOAL
 
-Implement a **3-stage pipelined 32-bit RISC-V processor** on the Spartan-7 FPGA and demonstrate ALU execution using:
+Implement a **3-stage pipelined 32-bit RISC-V logic** on the Spartan-7 FPGA and demonstrate ALU execution using:
 
 **ADD • SUB • MUL**
 
