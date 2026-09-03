@@ -1,6 +1,6 @@
 # 🛠️ 3-STAGE PIPELINED RISC-V LOGIC ON FPGA
 
-A simple **32-bit 3-stage pipelined RISC-V processor** implemented on an **AMD Xilinx Spartan-7 FPGA**, with ALU results displayed on a **16×2 HD44780-compatible LCD**.
+A simple **32-bit 3-stage pipelined RISC-V logic** implemented on an **AMD Xilinx Spartan-7 FPGA**, with ALU results displayed on a **16×2 HD44780-compatible LCD**.
 
 ## 📋 PROJECT SPECS
 
